@@ -4,15 +4,15 @@
   background-size:cover;
   background-repeat: no-repeat;
   height: 100vh;
-  width: auto;
 }
 
 .container-fluid{
   background: transparent;
+  
 }
 
 h2{
-  color: blue;
+  color: white;
   font-family: 'Poppins', sans serif;
   background: transparent;
 }
@@ -26,4 +26,11 @@ h2{
 color: blue;
 }
 
+.homecopy {
+  position:relative;
+  top: 70%;
+}
 
+.colortext {
+  color: #A45734;
+}
