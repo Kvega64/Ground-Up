@@ -3,14 +3,15 @@
   background-image: url(../images/Background.avif);
   background-size:cover;
   background-repeat: no-repeat;
+  background-position: center;
   height: 100vh;
-  width: auto;
+  
+  
 }
 
-.container-fluid{
-  background: transparent;
+body{
+  background-color: black;
 }
-
 h2{
   color: blue;
   font-family: 'Poppins', sans serif;
@@ -20,10 +21,12 @@ h2{
 .thumbnail{
   height:200px;
   width: auto;
+  background-color: black;
 }
 
 .navbar-nav:hover{
 color: blue;
 }
+
 
 
