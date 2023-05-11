@@ -1,0 +1,29 @@
+
+.bg-image{
+  background-image: url(../images/Background.avif);
+  background-size:cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: auto;
+}
+
+.container-fluid{
+  background: transparent;
+}
+
+h2{
+  color: blue;
+  font-family: 'Poppins', sans serif;
+  background: transparent;
+}
+
+.thumbnail{
+  height:200px;
+  width: auto;
+}
+
+.navbar-nav:hover{
+color: blue;
+}
+
+
