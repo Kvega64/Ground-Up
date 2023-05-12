@@ -36,3 +36,25 @@ color: blue;
 .colortext {
   color: #A45734;
 }
+
+.thumbnail{
+  background-color: black;
+  padding: 80px;
+}
+body{
+  background-color: black;
+}
+
+h3{
+  color: white;
+  text-align: center;
+  background-color: #503325;
+  margin: 0;
+}
+
+h4{
+  color: white;
+  text-align: center;
+  background-color: #503325;
+  padding-bottom: 20px;
+}
